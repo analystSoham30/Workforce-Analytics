@@ -23,7 +23,7 @@ An end-to-end workforce analytics pipeline engineered using Python (EDA and data
 * Power BI – Data modeling, DAX measure creation, and interactive 3-page executive dashboard
 
 ## Repository Architecture - 
--**/Raw data/**: original database used for the analysis.
+-**/Raw and normalised data/**: original database used for the analysis.
 
 -**/SQL scripts/**: MySQL scripts used for analysis, view creation.
 
@@ -56,7 +56,7 @@ An end-to-end workforce analytics pipeline engineered using Python (EDA and data
 * **Structured 18–24 Month Promotion Pathways:** Institute clear, time-bound career progression benchmarks to transition unpromoted employees into structured promotion tracks, targeting a reduction in their 36.2% attrition rate down toward the ~20% range seen among multi-promoted staff.
 
 #### Compensation Optimization
-* **Proactive Market Salary Alignments:** Conduct bi-annual market salary benchmarks to eliminate the ~₹20,300/month pay gap between active (₹1.46L/mo) and departing (₹1.25L/mo) employees before below-market pay triggers exit decisions.
+* **Proactive Market Salary Alignments:** Conduct bi-annual market salary benchmarks to eliminate the ~₹20,300/month pay gap between active (₹1.46L/month) and departing (₹1.25L/month) employees before below-market pay triggers exit decisions.
 * **Pay-for-Performance Merit Structure:** Uncouple salary bands strictly from job title hierarchies and introduce performance-tiered merit increases, ensuring top performers (Ratings 4 & 5) are financially incentivized over low performers (Rating 1).
 
 #### Workload & Satisfaction
