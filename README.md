@@ -49,4 +49,15 @@ An end-to-end workforce analytics pipeline engineered using Python (EDA and data
 * **Equitable Diversity & Flexible Work Baselines:** The workforce maintains a consistent 55% Male / 45% Female ratio across departments and education tiers. Furthermore, working arrangements (70% On-site, 15% Hybrid, 15% Fully Remote) show equal satisfaction (~3.48/5.0) and attrition (~28.2%), indicating fair policy implementation across work locations.
 
 
+## Strategic recommendations - 
 
+#### Attrition Interventions
+* **Targeted Frontline Retention Programs:** Implement departmental retention interventions (such as stay-interviews, mid-year check-ins, and performance incentives) specifically for Marketing, Sales, and Customer Support to address their ~42% attrition rate compared to back-office functions (~12–13%).
+* **Structured 18–24 Month Promotion Pathways:** Institute clear, time-bound career progression benchmarks to transition unpromoted employees into structured promotion tracks, targeting a reduction in their 36.2% attrition rate down toward the ~20% range seen among multi-promoted staff.
+
+#### Compensation Optimization
+* **Proactive Market Salary Alignments:** Conduct bi-annual market salary benchmarks to eliminate the ~₹20,300/month pay gap between active (₹1.46L/mo) and departing (₹1.25L/mo) employees before below-market pay triggers exit decisions.
+* **Pay-for-Performance Merit Structure:** Uncouple salary bands strictly from job title hierarchies and introduce performance-tiered merit increases, ensuring top performers (Ratings 4 & 5) are financially incentivized over low performers (Rating 1).
+
+#### Workload & Satisfaction
+* **Operational Rebalancing & Risk Tracking:** Cap parallel project assignments for heavy operational roles (Technicians and Analysts) while shifting primary attrition-risk modeling away from static satisfaction scores (which show near-zero exit variance) toward operational metrics like project overload and promotion delays.
